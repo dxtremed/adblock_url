@@ -1,1 +1,18 @@
-test
+[Adblock Plus 2.0]
+! Checksum: o94jXsNmCmzAyt0WXhGjRg
+! Version: 202312260002
+! Title: EasyList
+! Last modified: 26 Dec 2023 00:02 UTC
+! Expires: 1 days (update frequency)
+! Homepage: https://easylist.to/
+! Licence: https://easylist.to/pages/licence.html
+!
+! Please report any unblocked adverts or problems
+! in the forums (https://forums.lanik.us/)
+! or via e-mail (easylist@protonmail.com).
+!
+!-----------------------General advert blocking filters-----------------------!
+! *** easylist:easylist/easylist_general_block.txt ***
+-ad-300x600-
+-ad-458x80.
+-ad-bottom-
