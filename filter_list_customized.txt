@@ -34,3 +34,5 @@ www.edealinfo.com##DIV[class="col-lg-12 hidden-md hidden-sm hidden-xs navbarBott
 www.edealinfo.com##DIV[id="large-top-header"]
 www.edealinfo.com##DIV[id="Blockpopup"]
 www.edealinfo.com##DIV[id="overlay-backBlock"]
+www.edealinfo.com##FORM[id="idSearchForm"][name="SearchForm"]
+www.edealinfo.com##DIV[class="row noteSpace2"]
